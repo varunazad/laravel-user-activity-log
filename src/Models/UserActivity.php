@@ -1,4 +1,4 @@
-namespace Varunazad\UserActivityLog\Models;
+namespace Varunazad\LaravelUserActivityLog\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
