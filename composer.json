@@ -1,6 +1,5 @@
 {
-  "name": "varunazad/laravel-user-activity-log
-",
+  "name": "varunazad/laravel-user-activity-log",
   "description": "Simple Laravel user activity logger",
   "type": "library",
   "autoload": {
