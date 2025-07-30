@@ -2,6 +2,7 @@
   "name": "varunazad/laravel-user-activity-log",
   "description": "Simple Laravel user activity logger",
   "type": "library",
+  "version":"1.0.1",
   "autoload": {
     "psr-4": {
       "Varunazad\\LaravelUserActivityLog\\": "src/"
