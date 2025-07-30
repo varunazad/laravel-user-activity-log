@@ -1,7 +1,7 @@
-namespace Varunazad\UserActivityLog\Middleware;
+namespace Varunazad\LaravelUserActivityLog\Middleware;
 
 use Closure;
-use Varunazad\UserActivityLog\Models\UserActivity;
+use Varunazad\LaravelUserActivityLog\Models\UserActivity;
 
 class LogUserActivity
 {
