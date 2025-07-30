@@ -1,6 +1,6 @@
-namespace Varunazad\UserActivityLog\Helpers;
+namespace Varunazad\LaravelUserActivityLog\Helpers;
 
-use Varunazad\UserActivityLog\Models\UserActivity;
+use Varunazad\LaravelUserActivityLog\Models\UserActivity;
 use Illuminate\Support\Facades\Request;
 
 class UserActivityLogger
