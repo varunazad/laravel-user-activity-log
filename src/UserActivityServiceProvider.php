@@ -1,4 +1,4 @@
-namespace Varunazad\UserActivityLog;
+namespace Varunazad\LaravelUserActivityLog;
 
 use Illuminate\Support\ServiceProvider;
 
