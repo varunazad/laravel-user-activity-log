@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Varunazad\UserActivityLog\Models\UserActivity;
+use Varunazad\LaravelUserActivityLog\Models\UserActivity;
 
 Route::middleware(['web', 'auth']) // You may add 'admin' middleware or gate
     ->prefix('user-activity-log')
