@@ -1,6 +1,6 @@
-namespace Varunazad\UserActivityLog\Traits;
+namespace Varunazad\LaravelUserActivityLog\Traits;
 
-use Varunazad\UserActivityLog\Models\UserActivity;
+use Varunazad\LaravelUserActivityLog\Models\UserActivity;
 use Illuminate\Support\Facades\Request;
 
 trait LogsActivity
